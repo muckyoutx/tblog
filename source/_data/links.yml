@@ -1,0 +1,50 @@
+class1:
+    class_name: dalao们
+    link_list: 
+        1:
+            
+            name: "码酱"
+            avatar: "http://image.luokangyuan.com/1_qq_27922023.jpg"
+            descr: "我不是大佬，只是在追寻大佬的脚步"
+            link: "http://luokangyuan.com/"
+            title: "前去学习"
+        2:
+            
+            name: "闪烁之狐"
+            avatar: "http://image.luokangyuan.com/4027734.jpeg"
+            descr: "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬"
+            link: "https://blinkfox.github.io/"
+            title: "前去学习"
+        3:
+            
+            name: "ja_rome"
+            avatar: "http://image.luokangyuan.com/avatar.jpg"
+            descr: "平凡的脚步也可以走出伟大的行程"
+            link: "https://me.csdn.net/jlh912008548"
+            title: "前去学习"
+        4:
+            name: "hexo"
+            avatar: "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg"
+            descr: "快速、简单的网页框架"
+            link: "https://hexo.io/zh-tw/"
+            title: "前去学习"
+        
+        5:
+            name: "false"
+            avatar: "https://blog.falsectf.top/img/1.jpg"
+            descr: "一个小辣鸡."
+            link: "https://blog.falsectf.top/"
+            title: "前去学习"
+#}, {
+#    "avatar": "http://image.luokangyuan.com/4027734.jpeg",
+#    "name": "闪烁之狐",
+#    "introduction": "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬",
+#    "url": "https://blinkfox.github.io/",
+#    "title": "前去学习"
+#}, {
+#    "avatar": "http://image.luokangyuan.com/avatar.jpg",
+#    "name": "ja_rome",
+#    "introduction": "平凡的脚步也可以走出伟大的行程",
+#    "url": "https://me.csdn.net/jlh912008548",
+#    "title": "前去学习"
+#}]
